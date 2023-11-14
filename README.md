@@ -9,3 +9,4 @@
 
 3. Buka folder IP-Track ```cd IP-Track```
 4. Install Module yang dibutuhkan ```pip install -r requirement.txt```
+5. Run IP-Track ```python IP-Track.py```
