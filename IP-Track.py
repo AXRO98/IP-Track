@@ -70,14 +70,15 @@ def get_public_ipv4():
 
 def get_public_ipv6():
     try:
-        ipv4_obj = ipaddress.IPv4Address(get_public_ipv4())
+        response = requests.get('https://api64.ipify.org/')
+        
+        if response.ok:
+            return response.text
+        else:
+            return '0.0.0.0'
 
-        ipv6_obj = ipaddress.IPv6Address('::ffff:' + str(ipv4_obj))
-
-        return str(ipv6_obj)
-
-    except ipaddress.AddressValueError:
-        return 'get IPv6 error!!'
+    except requests.exceptions.RequestException as e:
+        return f'get IPv6 error!!'
 
 IP_Track_Figlet = f"""
  {color_figlet_1} _____  _____  {color_figlet_2}     {color_figlet_3} _______                 
