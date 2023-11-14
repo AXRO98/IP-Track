@@ -9,3 +9,9 @@
 3. Buka folder IP-Track: ```cd IP-Track```
 4. Install modul yang dibutuhkan: ```pip install -r requirement.txt```
 5. Jalankan IP-Track: ```python IP-Track.py```
+
+# Info Tools IP-Track
+- Versi: 1.0
+- Bahasa Pemrograman: Python 3
+- Tanggal Dirilis: 14 November 2023
+- Tanggal Diupdate: -
