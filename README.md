@@ -12,6 +12,6 @@
 
 # Info Tools IP-Track
 - Versi: 1.0
-- Bahasa Pemrograman: Python 3
+- Bahasa Pemrograman: [Python 3](https://www.python.org/downloads/)
 - Tanggal Dirilis: 14 November 2023
 - Tanggal Diupdate: -
