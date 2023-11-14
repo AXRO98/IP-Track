@@ -8,4 +8,4 @@
 2. clone repositori ini dengan cara ```git clone https://github.com/AXRO98/IP-Track```
 
 3. Buka folder IP-Track ```cd IP-Track```
-4. Install Module yang dibutuhkan ```pip install -r requirement.txt
+4. Install Module yang dibutuhkan ```pip install -r requirement.txt```
