@@ -5,7 +5,7 @@
 
 # Cara Menggunakan IP-Track
 1. Buka terminal atau console.
-2. Clone repositori: git clone https://github.com/AXRO98/IP-Track
-3. Buka folder IP-Track: cd IP-Track
-4. Install modul yang dibutuhkan: pip install -r requirement.txt
-5. Jalankan IP-Track: python IP-Track.py
+2. Clone repositori: ```git clone https://github.com/AXRO98/IP-Track```
+3. Buka folder IP-Track: ```cd IP-Track```
+4. Install modul yang dibutuhkan: ```pip install -r requirement.txt```
+5. Jalankan IP-Track: ```python IP-Track.py```
