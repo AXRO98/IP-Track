@@ -86,7 +86,7 @@ IP_Track_Figlet = f"""
  {color_figlet_1}  | |  | |__) |{color_figlet_2} _____{color_figlet_3}  | |_ __ __ _  ___ __ __
  {color_figlet_1}  | |  |  ___/ {color_figlet_2}|_____|{color_figlet_3} | | '__/ _` |/ __| |/ /
  {color_figlet_1} _| |_ | |     {color_figlet_2}     {color_figlet_3}   | | | | (_| | (__|   <  
- {color_figlet_1}|_____||_|  {color_figlet_4}V.1.0{none}{color_figlet_3}      |_|_|  \__,_|\___|_|\_\\
+ {color_figlet_1}|_____||_|  {color_figlet_4}V.1.1{none}{color_figlet_3}      |_|_|  \__,_|\___|_|\_\\
 {color_1}┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
 {color_1}┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 {color_1}┃ {white}Your IPv6: {green}{get_public_ipv6()}
